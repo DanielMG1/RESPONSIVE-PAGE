@@ -1,0 +1,46 @@
+.form-control {
+    height: 30px;
+    border-radius: 0%;
+    font-weight: lighter;
+}
+
+.btn {
+    height: auto;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    background-color: rgb(161, 118, 182);
+    border: none;
+    border-radius: 0%;
+    margin-right: 20px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: rgb(161, 118, 182);
+    border: 1px solid;
+}
+
+.paragrap-title {
+    color: rgb(179, 78, 78);
+}
+
+.custom-card {
+    width: 18rem;
+    height: 20rem;
+    margin: 10px;
+    border: none;
+    border-radius: 0%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.custom-header {
+    background-image: url(img/Background-header.jpeg);
+    background-position: right bottom, left top;
+}
+
+.custom-principal {
+    background-image: url(img/city.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+}
